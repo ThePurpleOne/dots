@@ -1,9 +1,9 @@
 [submodule "zsh/.config/pure"]
-	path = zsh/.config/pure
+	path = .config/zsh/pure
 	url = https://github.com/sindresorhus/pure.git
 [submodule "zsh/.config/zsh-syntax-highlightning"]
-	path = zsh/.config/zsh-syntax-highlightning
+	path = .config/zsh/zsh-syntaxe-highlightning
 	url = https://github.com/zsh-users/zsh-syntax-highlighting
 [submodule "zsh/.config/zsh-autosuggestions"]
-	path = zsh/.config/zsh-autosuggestions
+	path = .config/zsh/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
