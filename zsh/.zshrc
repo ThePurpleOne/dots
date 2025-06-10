@@ -11,8 +11,7 @@ bindkey ";5D" backward-word
 bindkey '5~' kill-word
 
 source ~/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
-
+source ~/.config/zsh/zsh-syntax-highlightning/zsh-syntax-highlighting.zsh
 
 # Miscellaneous Settings
 unsetopt beep
